@@ -1,30 +1,4 @@
-# LangGraph Course
 
-**Video:** https://www.youtube.com/watch?v=jGg_1h0qzaM
-
-Repository for all of the code written for the FreeCodeCamp LangGraph Course, including solutions for all exercises. This repo provides practical examples of using [LangGraph](https://github.com/langchain-ai/langgraph) for building agent-based applications through Python scripts and interactive Jupyter notebooks.
-
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Getting Started (zsh/Mac)](#getting-started-zshmac)
-  - [Using pyenv and uv](#using-pyenv-and-uv)
-- [Usage](#usage)
-- [Exercises](#exercises)
-- [Requirements](#requirements)
-
----
-
-## Overview
-
-LangGraph is a Python framework for designing and managing the flow of tasks in your application using graph structures. This course demonstrates LangGraph concepts through step-by-step exercises, agent implementations, and Jupyter notebooks.
-
----
-
-## Repository Structure
 
 ```
 LangGraph-Course/
@@ -164,9 +138,3 @@ Install all dependencies with:
 ```zsh
 uv pip install -r requirements.txt
 ```
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=iamvaibhavmehra/LangGraph-Course-freeCodeCamp&type=Date)](https://www.star-history.com/#iamvaibhavmehra/LangGraph-Course-freeCodeCamp&Date)
-
