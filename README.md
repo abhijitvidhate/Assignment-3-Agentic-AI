@@ -23,7 +23,7 @@ LangGraph-Course/
 #### 1. Clone the Repository
 
 ```zsh
-git clone [https://github.com/abhijitvidhate/Assignment-3-Agentic-AI](https://github.com/abhijitvidhate/Assignment-3-Agentic-AI)
+git clone https://github.com/abhijitvidhate/Assignment-3-Agentic-AI
 cd LangGraph-Course
 ```
 
